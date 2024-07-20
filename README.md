@@ -75,7 +75,8 @@ Voice AI with Hand Gesture Interaction is an innovative system that utilizes voi
   - Gesture to shift and close tabs
   - Gesture to increase and decrease volume
   - Gesture to change PowerPoint slides
-  - For detailed instructions and images of hand gestures, please refer to the [Hand Gesture Guide PDF](Hand Gesture Guide PDF/hand_gesture_guide_PDF.pdf).
+  - For detailed instructions and images of hand gestures, please refer to the [Hand Gesture Guide PDF](docs/hand_gesture_guide.pdf).
+
 
 ## Contribution
 
